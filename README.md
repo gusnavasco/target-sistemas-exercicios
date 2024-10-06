@@ -1,4 +1,4 @@
-## Target Sistemas - Estágio - São Paulo
+## Target Sistemas - Candidatura de estágio - São Paulo
 
 As soluções dos exercícios técnicos estão presentes na pasta "exercicios". 
 
